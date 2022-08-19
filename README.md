@@ -170,7 +170,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - jeremaquai@gmail.com.com
+Jeremiah Sparks - jeremaquai@gmail.com.com
 
 Project Link: [https://github.com/jeremaquai/number-guesser](https://github.com/jeremaquai/number-guesser)
 
