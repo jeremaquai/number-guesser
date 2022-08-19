@@ -69,11 +69,9 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -117,7 +115,7 @@ none
    ```sh
    git clone https://github.com/jeremaquai/number-guesser.git
    ```
-
+2. Open index.html in a browser window
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
