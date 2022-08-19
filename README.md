@@ -30,10 +30,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/jeremaquai/number-guesser">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="js-logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Number Guesser</h3>
 
   <p align="center">
     project_description
@@ -41,7 +41,7 @@
     <a href="https://github.com/jeremaquai/number-guesser"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jeremaquai/number-guesser">View Demo</a>
+    <a href="https://jeremaquai.github.io/number-guesser/">View Demo</a>
     ·
     <a href="https://github.com/jeremaquai/number-guesser/issues">Report Bug</a>
     ·
@@ -82,9 +82,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://jeremaquai.github.io/number-guesser/)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `jeremaquai`, `number-guesser`, `twitter_handle`, `jeremiah-sparks`, `gmail.com`, `jeremaquai`, `project_title`, `project_description`
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,14 +92,10 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Node.js](https://nodejs.org/)
+* [HTML 5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS 3](https://en.wikipedia.org/wiki/CSS)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -108,32 +104,20 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+none
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+
+1. Clone the repo
    ```sh
    git clone https://github.com/jeremaquai/number-guesser.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -142,21 +126,13 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+This is a guess the number game in which the user tries to guess closer to the secret randomized number than the computer will.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
 
 See the [open issues](https://github.com/jeremaquai/number-guesser/issues) for a full list of proposed features (and known issues).
 
@@ -203,13 +179,9 @@ Project Link: [https://github.com/jeremaquai/number-guesser](https://github.com/
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
 
-* []()
-* []()
-* []()
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 
@@ -227,4 +199,4 @@ Project Link: [https://github.com/jeremaquai/number-guesser](https://github.com/
 [license-url]: https://github.com/jeremaquai/number-guesser/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jeremiah-sparks
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: screenshot.png
