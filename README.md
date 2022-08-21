@@ -36,7 +36,7 @@
 <h3 align="center">Number Guesser</h3>
 
   <p align="center">
-    project_description
+    This is the first off platform JavaScript project that I have completed for my Codecademy Front-End Engineer Career Path.  All of the files were already written and put together except for the script.js file which was completely written by me following the guidelines provided by Codecademy.
     <br />
     <a href="https://github.com/jeremaquai/number-guesser"><strong>Explore the docs »</strong></a>
     <br />
